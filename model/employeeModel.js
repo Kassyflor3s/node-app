@@ -17,7 +17,7 @@ const employeeSchema = new mongoose.Schema({
         type: String,
         required: true,
     },
-    quote : {
+    quote: {
         type: String,
         required: true,
     }
